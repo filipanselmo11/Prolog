@@ -1,0 +1,2 @@
+sublista(S,L) :-
+  
